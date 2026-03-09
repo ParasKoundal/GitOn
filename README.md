@@ -5,7 +5,20 @@
 
 GitOn is a feature-rich, deeply integrated Git extension designed to supercharge your version control workflow within VS Code and Cursor. It moves beyond standard commit/push operations by providing advanced insights, risk analysis, atomic staging capabilities, and a revolutionary way to traverse file history.
 
-## 🔥 Core Features
+## � Installation & Getting Started
+
+**Get it from the marketplaces:**
+- [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=ParasKoundal.giton)
+- [**Open VSX Registry**](https://open-vsx.org/extension/ParasKoundal/giton)
+
+1. Open any Git repository.
+2. Check the VS Code Status Bar for the GitOn sync and Impact Score indicators.
+3. Open the VS Code Activity Bar and click the GitOn icon to access the Dashboard, Stashes, Drafts, and Branch Hygiene trees.
+4. Right-click inside any file to activate **Time Travel (Scrub Bar)**.
+
+---
+
+## �🔥 Core Features
 
 ### 1. Time Travel Scrub Bar (Virtual History)
 Ever wonder how a file evolved over time? Instead of digging through git logs, right-click any file and select **Time Travel (Scrub Bar)**. 
@@ -67,17 +80,6 @@ Never get surprised by merge conflicts again.
 - **Usability:** Intuitively squash, reorder, edit, or drop commits by clicking and dragging cards around, eliminating the need to manually edit finicky interactive rebase text files.
 
 ---
-
-## 🚀 Installation & Getting Started
-
-**Get it from the marketplaces:**
-- [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=ParasKoundal.giton)
-- [**Open VSX Registry**](https://open-vsx.org/extension/ParasKoundal/giton)
-
-1. Open any Git repository.
-2. Check the VS Code Status Bar for the GitOn sync and Impact Score indicators.
-3. Open the VS Code Activity Bar and click the GitOn icon to access the Dashboard, Stashes, Drafts, and Branch Hygiene trees.
-4. Right-click inside any file to activate **Time Travel (Scrub Bar)**.
 
 ---
 
