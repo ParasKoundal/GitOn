@@ -69,6 +69,11 @@ Never get surprised by merge conflicts again.
 ---
 
 ## 🚀 Installation & Getting Started
+
+**Get it from the marketplaces:**
+- [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=ParasKoundal.giton)
+- [**Open VSX Registry**](https://open-vsx.org/extension/ParasKoundal/giton)
+
 1. Open any Git repository.
 2. Check the VS Code Status Bar for the GitOn sync and Impact Score indicators.
 3. Open the VS Code Activity Bar and click the GitOn icon to access the Dashboard, Stashes, Drafts, and Branch Hygiene trees.
